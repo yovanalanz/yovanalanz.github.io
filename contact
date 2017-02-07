@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Yovana Lanz</title>
+ <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Farsan|Fira+Sans+Condensed|Fjalla+One" rel="stylesheet">
+<style>
+ body{
+background-image: url(dark-blackboard.png);
+color:#FFFFFF;
+ font-family: "Century Gothic"; 
+  text-align: center;
+ 
+ }
+ h1 { font-family: "Century Gothic";
+
+	}
+ a {
+  color:#FFFFFF;
+ text-decoration:none;}
+	
+	
+	
+ 
+</style>
+  
+</head>
+
+<body>
+
+<img src="logo-new.png" width="300" alt="mylogo"> 
+    <nav>
+		<a href="index.html">Home</a>| <a href="about.html">About</a>| <a href="work.html" target="_blank">Work</a>| <a href="contact.html">Contact</a>
+	</nav>
+	<p>
+	
+		<font size="20" color="white"> Contact Me.</font><p>
+<h1> Email: yovanalanz@gmail.com <br>
+     Buisness Phone: (954)736-8494 <br>
+     Instagram: yovilanz
+     </h1>
+<div></div>
+	</body>
+	
+</html>
